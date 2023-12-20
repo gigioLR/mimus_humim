@@ -1,0 +1,12 @@
+# Instalar os pacotes (se ainda não estiver instalado)
+
+install.packages("here")
+install.packages("car")
+install.packages("ggplot2")
+install.packages("PNSIBGE")
+install.packages("survey")
+install.packages("dplyr")
+install.packages("foreign")
+install.packages("forcats")
+install.packages("tidyverse")
+install.packages("data.table")
